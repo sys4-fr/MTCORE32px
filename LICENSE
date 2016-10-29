@@ -100,8 +100,6 @@ Created by InfinityProject (WTFPL) :
   default_mineral_diamond.png
 
 Created by Splizard (CC BY-SA 3.0) :
-  default_snow.png
-  default_snow_side.png
   default_pine_sapling.png
 
 Created by Zeg9 (CC BY-SA 3.0) :
@@ -184,6 +182,8 @@ Created by Gambit (WTFPL) :
   default_mese_crystal.png
   default_paper.png
   default_pine_tree.png (alternates folder)
+  default_snow.png
+  default_snow_side.png
   default_steel_block.png
   default_steel_ingot.png
   doors_steel.png
